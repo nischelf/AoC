@@ -1,0 +1,6 @@
+# input files
+*.txt
+
+# executable files
+partOne
+partTwo
